@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 30px;
+}
+
+
+body{
+    background-color: palegoldenrod;
+}
+#box{
+    text-align: center;
+
+
+}
+#inp1{
+   margin-bottom: 20px;
+   font-size: 22px;
+}
+#inp2{
+    margin-bottom: 50px;
+    font-size: 22px;
+
+}
+#login{
+    font-size: 22px;
+    padding: 5px 25px 5px 25px;
+    color: white;
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    font-weight: bold;
+}
